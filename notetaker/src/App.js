@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./css/App.css";
 // import Note from "./component/Note";
 
 class App extends React.Component {
